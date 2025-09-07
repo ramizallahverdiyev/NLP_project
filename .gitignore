@@ -1,0 +1,6 @@
+.venv/
+
+nlp/datasets/
+
+SentimentyBot/tweets_21.csv
+SentimentyBot/tweets_labeled.csv
